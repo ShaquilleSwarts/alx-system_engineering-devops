@@ -1,3 +1,2 @@
 #!/bin/bash
 hmod -R u=rwx,go=rx /.
-
