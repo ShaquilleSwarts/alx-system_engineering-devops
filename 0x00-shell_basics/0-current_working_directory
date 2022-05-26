@@ -1,2 +1,2 @@
 #!/bin/bash /n 
-find "$(cd ..; pwd)" -name "0-current_working_directory"
+find "$(pwd)" -name "0-current_working_directory"
