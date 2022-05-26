@@ -1,2 +1,2 @@
-#!/bin/bash
-/n
+#!/bin/bash 
+"$(dirname "$(realpath "$0")")" /n
