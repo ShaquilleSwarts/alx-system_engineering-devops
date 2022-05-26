@@ -1,2 +1,2 @@
 #!/bin/bash
-chown u+x g+x 0+r hello
+chown u=rwx g=rwx o=0
