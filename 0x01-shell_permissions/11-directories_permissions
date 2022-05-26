@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo=+rwx -R/
+chmod 755 -R/
