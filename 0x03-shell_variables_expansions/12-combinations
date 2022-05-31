@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((26 ** 2 -l)) |wc -l
+echo {{a..o}{a..n},{o..z}{p..z}} 
